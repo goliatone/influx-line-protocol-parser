@@ -34,6 +34,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 * 2016-08-15 v0.1.0: Initial release
+* 2016-08-15 v0.2.0: Remove unused bin
 
 ## License
 Copyright (c) 2016 goliatone  
