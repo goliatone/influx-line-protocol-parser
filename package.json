@@ -2,7 +2,7 @@
   "name": "influx-line-protocol-parser",
   "title": "Influx Line Protocol Parser",
   "description": "Library for parsing InfluxDB's line protocol.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/goliatone/influx-line-protocol-parser",
   "author": {
     "name": "goliatone",
