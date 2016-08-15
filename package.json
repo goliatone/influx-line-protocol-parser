@@ -23,7 +23,6 @@
     }
   ],
   "main": "index",
-  "bin": "bin/influx-line-protocol-parser",
   "engines": {
     "node": ">= 0.12"
   },
