@@ -1,0 +1,42 @@
+{
+  "name": "influx-line-protocol-parser",
+  "title": "Influx Line Protocol Parser",
+  "description": "Library for parsing InfluxDB's line protocol.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/goliatone/influx-line-protocol-parser",
+  "author": {
+    "name": "goliatone",
+    "email": "hello@goliatone.com",
+    "url": "http://goliatone.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goliatone/influx-line-protocol-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/goliatone/influx-line-protocol-parser/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/goliatone/influx-line-protocol-parser/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index",
+  "bin": "bin/influx-line-protocol-parser",
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*_test.js",
+    "dtest": "./node_modules/mocha/bin/mocha test/*_test.js -G -w --reporter spec --slow 500"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha-sinon": "^1.1.4",
+    "chai": "^2.2.0",
+    "sinon": "^1.14.1",
+    "mocha": "^2.2.4"
+  },
+  "keywords": ["influx", "influxdb", "line-protocol", "parser"]
+}
