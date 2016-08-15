@@ -2,8 +2,6 @@
 
 var assert = require('chai').assert;
 var sinon = require('sinon');
-var path = require('path');
-
 sinon.assert.expose(assert, { prefix: '' });
 
 var cast = require('../lib').cast;
