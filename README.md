@@ -33,7 +33,7 @@ console.log(point);
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-8 2016-08-15 Initial release
+* 2016-08-15 v0.1.0: Initial release
 
 ## License
 Copyright (c) 2016 goliatone  
