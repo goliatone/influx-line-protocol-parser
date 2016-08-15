@@ -2,7 +2,7 @@
   "name": "influx-line-protocol-parser",
   "title": "Influx Line Protocol Parser",
   "description": "Library for parsing InfluxDB's line protocol.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/goliatone/influx-line-protocol-parser",
   "author": {
     "name": "goliatone",
@@ -38,5 +38,10 @@
     "sinon": "^1.14.1",
     "mocha": "^2.2.4"
   },
-  "keywords": ["influx", "influxdb", "line-protocol", "parser"]
+  "keywords": [
+    "influx",
+    "influxdb",
+    "line-protocol",
+    "parser"
+  ]
 }
